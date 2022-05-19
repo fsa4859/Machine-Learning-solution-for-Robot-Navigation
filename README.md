@@ -39,4 +39,9 @@ Random Forest Classifer with stratified folds of k=10 was used. The original dat
 
 ![image](https://user-images.githubusercontent.com/69100847/169327339-67e4905e-4ef2-4f25-87f6-543f7812f7d7.png)
 
+### Principal Component Analysis
+
+![image](https://user-images.githubusercontent.com/69100847/169328192-522a4160-aa2b-4b84-8875-c53a5157f54d.png)
+
+
 
