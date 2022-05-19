@@ -35,3 +35,8 @@ Random Forest Classifer with stratified folds of k=10 was used. The original dat
 ![image](https://user-images.githubusercontent.com/69100847/169327149-9a9040b3-b35f-4492-ab0b-7bdcc3ff4caa.png)
 
 
+### Feature Importance
+
+![image](https://user-images.githubusercontent.com/69100847/169327339-67e4905e-4ef2-4f25-87f6-543f7812f7d7.png)
+
+
