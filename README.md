@@ -1,4 +1,4 @@
-# Machine-Learning-solution-for-Robot-Navigation
+# Machine-Learning-solution-for-Robot-Navigation (Python based project)
 This projects involves the implementation of Machine Learning solution to help robot navigation through identification of ground terrain.
 # Project Description
 1. The project aims at implementing a Machine Learning solution to help robots identify their ground terrain.
@@ -19,6 +19,8 @@ This projects involves the implementation of Machine Learning solution to help r
 ### Heat Map
 ![image](https://user-images.githubusercontent.com/69100847/169324094-587f70dd-d9e0-4b77-bbbb-195f65253f32.png)
 
+### Outlier Handling (Skewness)
+![image](https://user-images.githubusercontent.com/69100847/169325639-2f073f85-beda-41fd-a0c7-8187c962cc6e.png)
 
 
 
