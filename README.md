@@ -23,5 +23,10 @@ This projects involves the implementation of Machine Learning solution to help r
 ![image](https://user-images.githubusercontent.com/69100847/169325639-2f073f85-beda-41fd-a0c7-8187c962cc6e.png)
 
 
+## Feature Engineering
+Based on the understanding of the nature of the problem, Feature Engineering was used to create more features that would make the ML model become more efficient
+
+![image](https://user-images.githubusercontent.com/69100847/169326546-43489bfd-f9f4-4d96-b45e-08203f19efb9.png)
+
 
 
