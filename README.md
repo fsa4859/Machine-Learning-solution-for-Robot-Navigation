@@ -16,6 +16,10 @@ This projects involves the implementation of Machine Learning solution to help r
 ### Histogram and Frequency Plots
 ![image](https://user-images.githubusercontent.com/69100847/169323746-75e32f40-c3ec-4e0b-ba4f-b69cc5cc473b.png)
 
+### Heat Map
+![image](https://user-images.githubusercontent.com/69100847/169324094-587f70dd-d9e0-4b77-bbbb-195f65253f32.png)
+
+
 
 
 
