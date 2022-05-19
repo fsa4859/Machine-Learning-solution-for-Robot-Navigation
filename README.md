@@ -44,4 +44,14 @@ Random Forest Classifer with stratified folds of k=10 was used. The original dat
 ![image](https://user-images.githubusercontent.com/69100847/169328192-522a4160-aa2b-4b84-8875-c53a5157f54d.png)
 
 
+### Random Search for Random Forest Classifer
+
+![image](https://user-images.githubusercontent.com/69100847/169329433-1ace3e50-cc88-4b4a-846d-dae4e2b7e6f5.png)
+
+
+![image](https://user-images.githubusercontent.com/69100847/169329520-a7656341-1f8d-4387-a17a-dd69415ffb0e.png)
+
+
+![image](https://user-images.githubusercontent.com/69100847/169329578-ecf6134e-f3db-46dd-875d-9c184e20d034.png)
+
 
