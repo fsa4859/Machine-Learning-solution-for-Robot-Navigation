@@ -12,3 +12,10 @@ This projects involves the implementation of Machine Learning solution to help r
 ## Data Analysis
 ### Data Inbalance
  ![image](https://user-images.githubusercontent.com/69100847/169323201-44df869f-c882-40e1-b4d1-f6f12a41caf2.png)
+
+### Histogram and Frequency Plots
+![image](https://user-images.githubusercontent.com/69100847/169323746-75e32f40-c3ec-4e0b-ba4f-b69cc5cc473b.png)
+
+![image](https://user-images.githubusercontent.com/69100847/169323809-8b3e0878-e7e7-4741-8907-da0575312883.png)
+
+
