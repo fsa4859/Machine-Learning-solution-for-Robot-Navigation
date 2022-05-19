@@ -59,3 +59,17 @@ Random Forest Classifer with stratified folds of k=10 was used. The original dat
 
 ![image](https://user-images.githubusercontent.com/69100847/169330363-e96cefc8-4573-4c3c-9c59-b0d5179a5bb4.png)
 
+
+### Keras Deep Learning
+
+![image](https://user-images.githubusercontent.com/69100847/169330865-0472ebd7-4897-44bc-847b-3ceddc978173.png)
+
+
+![image](https://user-images.githubusercontent.com/69100847/169330940-e204dd2a-e7e7-4c94-9ed0-8a21d4630610.png)
+
+
+![image](https://user-images.githubusercontent.com/69100847/169331015-c548a54a-e0f3-4922-937b-85b8ad96fde2.png)
+
+
+
+
