@@ -10,4 +10,4 @@ This projects involves the implementation of Machine Learning solution to help r
 4. Optimization.
 
 ## Data Analysis
-![image](https://user-images.githubusercontent.com/69100847/169323201-44df869f-c882-40e1-b4d1-f6f12a41caf2.png)
+### ![image](https://user-images.githubusercontent.com/69100847/169323201-44df869f-c882-40e1-b4d1-f6f12a41caf2.png)
