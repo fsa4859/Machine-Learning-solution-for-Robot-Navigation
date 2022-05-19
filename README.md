@@ -28,5 +28,10 @@ Based on the understanding of the nature of the problem, Feature Engineering was
 
 ![image](https://user-images.githubusercontent.com/69100847/169326546-43489bfd-f9f4-4d96-b45e-08203f19efb9.png)
 
+## Radnom Forest Classifier (Machine Learning Model)
+
+Random Forest Classifer with stratified folds of k=10 was used. The original dataset and two more for outlier handling were fed to the model.
+
+![image](https://user-images.githubusercontent.com/69100847/169327149-9a9040b3-b35f-4492-ab0b-7bdcc3ff4caa.png)
 
 
